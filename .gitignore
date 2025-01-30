@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+module1/ny_taxi_*
+*.csv
+.DS_Store
